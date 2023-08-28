@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DishesApi", "DishesApi.csproj", "{4DAB9285-DECF-4C2B-9C9D-BB4BC6D9B599}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DAB9285-DECF-4C2B-9C9D-BB4BC6D9B599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DAB9285-DECF-4C2B-9C9D-BB4BC6D9B599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DAB9285-DECF-4C2B-9C9D-BB4BC6D9B599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DAB9285-DECF-4C2B-9C9D-BB4BC6D9B599}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {880B42DF-5389-4FD7-9380-0BFF9208895C}
+	EndGlobalSection
+EndGlobal
